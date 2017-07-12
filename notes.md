@@ -56,6 +56,4 @@ em, strong {
   flowing around an image. This is where we finally start creating real web
   pages.
 
-## Default Behavior
-
  
